@@ -1,0 +1,1 @@
+# squid-center-fronted-vue
